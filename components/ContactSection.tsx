@@ -24,7 +24,7 @@ export default function ContactSection() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6 }}
             > 
-             <span style={{ color: '#ffffff' }}>¡Es hora de Transformar tu Negocio!</span>
+             <span style={{ color: '#ffffff' }}>¡Es hora de Transformar <br />  tu Negocio!</span>
             </motion.h2>
             <motion.p 
               className="text-xl md:text-2xl text-gray-200 max-w-3xl mx-auto"
@@ -32,7 +32,7 @@ export default function ContactSection() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.2 }}
             >
-              Únete a más de 900 aliados comerciales que ya están creciendo con Rapikom Cash.
+              Únete a más de 900 aliados comerciales que ya están creciendo <br /> con Rapikom Cash.
             </motion.p>
           </div>
         </AnimatedSection>

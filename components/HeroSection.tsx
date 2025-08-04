@@ -56,7 +56,7 @@ export default function HeroSection() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, delay: 0.2 }}
               >
-                Haz que tu negocio venda en comodas cuotas sin interés
+                Haz que tu negocio venda <br /> en comodas cuotas sin interés
               </motion.p>
             </AnimatedSection>
 
