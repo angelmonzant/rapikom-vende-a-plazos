@@ -90,7 +90,7 @@ export default function AsesoresSection() {
                   ))}
                 </div>
                 <p className="text-gray-700 mb-6 italic">
-                  "{testimonio.testimonio}"
+                {testimonio.testimonio}
                 </p>
                 <div className="text-center">
                   <h4 className="font-semibold text-gray-900">{testimonio.nombre}</h4>
